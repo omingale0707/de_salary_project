@@ -1,3 +1,5 @@
+# For my Practice, I followed Ken Jee's Data Science Project from Scratch series. Most of the code is similar except the web scraper 
+
 # Data Science Salary Estimator: Project Overview 
 * Created a tool that estimates data science salaries (MAE ~ $ 12K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
